@@ -5,7 +5,7 @@
  English | [Türkçe >>](https://github.com/setscript)
 </div>
 
-<h1>Who we are</h1>
+<h1>Who are we</h1>
 Hello welcome to SetScript 👋. With the service we started to provide in 2020, we are here to ensure that all code lovers from 7 to 70 can access the codes in the fastest and easiest way and to solve the errors of users who receive errors as soon as possible.  
 
 We continue our work every day to provide the best service to all our users with our advanced authorised staff. Our goal is to give you the best experience.  
