@@ -1,4 +1,4 @@
-![setscript-welcomer2](https://github.com/user-attachments/assets/b07e42cf-607e-4245-8f1f-5e8528ae5829)
+![setscript organization readme desing](https://github.com/user-attachments/assets/71cdb374-23af-4053-b583-8076ee6e1e9b)
 
 ###### **You can [click here](https://discord.gg/qEmGxaDUfY) to join our community and be informed about the progress.**
 ###### **[Website](https://setscript.com)**
