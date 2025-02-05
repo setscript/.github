@@ -18,8 +18,6 @@ We direct our projects together with our growing community every day.
 
 <h1>Our Projects</h1>
 
-Translated with DeepL.com (free version)
-
 | [setscript.com](https://www.setscript.com) |
 | --- |
 | ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) |
